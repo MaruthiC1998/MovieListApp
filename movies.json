@@ -1,0 +1,101 @@
+{
+  "movies": [
+    {
+      "movieName": "RRR",
+      "hero": "NTR and Ramcharan",
+      "heroine": "Aliya Bhat",
+      "gener": "Action",
+      "rating": "8",
+      "story": "",
+      "id": 5,
+      "poster": "./images/rrr.jpg"
+    },
+    {
+      "movieName": "VR",
+      "hero": "Sudeep",
+      "heroine": "Jaqueline",
+      "gener": "Adventure",
+      "rating": "8",
+      "story": "",
+      "id": 6,
+      "poster": "./images/vr.jpg"
+    },
+    {
+      "movieName": "KGF",
+      "hero": "Yash",
+      "heroine": "Shrinidhi Shetty",
+      "gener": "Action",
+      "rating": "5",
+      "story": "",
+      "id": 7,
+      "poster": "./images/kgf.jpg"
+    },
+    {
+      "movieName": "KGF 2",
+      "hero": "Yash",
+      "heroine": "Shreenidhi Sheety",
+      "gener": "Action",
+      "rating": "5",
+      "story": "",
+      "id": 8,
+      "poster": "./images/kgf2.jpg"
+    },
+    {
+      "movieName": "Sarkarivari Pata",
+      "hero": "Mahesh Babu",
+      "heroine": "Keerthi Suresh ",
+      "gener": "Drama",
+      "rating": "4",
+      "story": "",
+      "id": 9,
+      "poster": "./images/sarakari.jpg"
+    },
+    {
+      "movieName": "Charlee 777",
+      "hero": "Rakshith Shetty",
+      "heroine": "Pummy(Dog)",
+      "gener": "Drama",
+      "rating": "4",
+      "story": "",
+      "id": 10,
+      "poster": "./images/charle777.jpg"
+    },
+    {
+      "movieName": "Tagaru",
+      "hero": "Shivanna",
+      "heroine": "Manvitha",
+      "gener": "Action",
+      "rating": "4",
+      "story": "",
+      "id": 11,
+      "poster": "./images/tagaru.jpg"
+    },
+    {
+      "movieName": "Bhchan",
+      "hero": "Suddep",
+      "heroine": "Bavana",
+      "gener": "action and Drama",
+      "rating": "4",
+      "story": "",
+      "id": 12
+    },
+    {
+      "movieName": "Bimbisara",
+      "hero": "Kalyan Ram",
+      "heroine": "Raina",
+      "gener": "Historic Drama",
+      "rating": "3",
+      "story": "Historic Drama",
+      "id": 13
+    },
+    {
+      "movieName": "fhjdhf",
+      "hero": "sdff",
+      "heroine": "fsdf",
+      "gener": "fsgfdsg",
+      "rating": "2",
+      "story": "tyty7",
+      "id": 14
+    }
+  ]
+}

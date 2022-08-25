@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    
+}
+.App{
+    max-width: 600px;
+    height: 500px;
+    margin:auto ;
+}
+.nav1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 600px;
+    height: 90px;
+}
+.nav1 h1{
+    color: rgb(96, 199, 199);
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+.nav2{
+    margin-bottom: 50px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.606);
+    
+
+}
+.nav2 input{
+    width: 450px;
+    height: 45px;
+}
+.nav2 button{
+    width: 140px;
+    height: 45px;
+    background-color: rgb(96, 199, 199);
+    color: white;
+
+}
+.links a{
+    background-color: rgb(96, 199, 199);
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.links a:hover{
+    color: rgb(96, 199, 199);
+    background-color: white;
+    transition: 0.1s;
+}
+.home-content h1{
+    font-size: 50px;
+    margin: 20px 0px;
+}
+.movies-list{
+    margin: 20px 0px;
+    padding: 10px;
+}
+.movies-list:hover{
+    box-shadow: 10px 10px 20px rgba(129, 129, 129, 0.758);
+    transition: 0.1s;
+}
+.movies-list h2{
+    color: rgb(96, 199, 199);
+    margin: 10px 0px;
+}
+.movies-list div {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+.movies-list h3{
+    margin: 10px 0px;
+}
+.movies-list a{
+    text-decoration: none;
+    color: black;
+}
+.movies-list button{
+    background-color: rgb(96, 199, 199);
+    color: white;
+    font: 15px;
+    padding: 10px;
+    width: 80px;
+    margin:10px 0px ;
+}
+.add-movies h1{
+    margin: 20px 0px;
+}
+.create-movie{
+    margin-top: 40px;
+    display: grid;
+    max-width: 600px;
+    grid-template-columns: 150px 250px;
+    row-gap: 15px;
+}
+.create-movie input {
+    border: rgb(96, 199, 199) solid 2px;
+    border-radius: 5px;
+    height: 30px;
+}
+.create-movie textarea{
+    border: rgb(96, 199, 199) solid 2px;
+    border-radius: 5px;
+} 
+.movie-details button{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    color: aliceblue;
+
+}
